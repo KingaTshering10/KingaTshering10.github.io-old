@@ -1,27 +1,29 @@
 ---
-
 layout: about
 title: about
 permalink: /
 subtitle: Final-year BSc CSE Student · Machine Learning & Applied AI Researcher
 
 profile:
-align: right
-image: prof_pic.jpg
-image_circular: false
-more_info: > <p>Dhaka, Bangladesh</p> <p><a href="mailto:kinga.tshering@northsouth.edu">[kinga.tshering@northsouth.edu](mailto:kinga.tshering@northsouth.edu)</a></p> <p><a href="mailto:kinstsring10@gmail.com">[kinstsring10@gmail.com](mailto:kinstsring10@gmail.com)</a></p>
+  align: right
+  image: prof_pic.jpg
+  image_circular: false
+  more_info: >
+    <p>Dhaka, Bangladesh</p>
+    <p><a href="mailto:kinga.tshering@northsouth.edu">kinga.tshering@northsouth.edu</a></p>
+    <p><a href="mailto:kinstsring10@gmail.com">kinstsring10@gmail.com</a></p>
 
 selected_papers: false
 social: true
 
 announcements:
-enabled: true
-scrollable: true
-limit: 5
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
-enabled: false
---------------
+  enabled: false
+---
 
 Hi! I am **Kinga Tshering**, a final-year **BSc Computer Science and Engineering** student at **North South University**, Dhaka, Bangladesh. I am a recipient of **His Majesty’s Scholarship** and currently hold a **CGPA of 3.90/4.00**.
 
