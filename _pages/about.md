@@ -6,7 +6,7 @@ subtitle: Final-year BSc CSE Student · Machine Learning & Applied AI Researcher
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false
   more_info: >
     <p>Dhaka, Bangladesh</p>
