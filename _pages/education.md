@@ -6,8 +6,6 @@ nav: true
 nav_order: 4
 ---
 
-# Education
-
 My academic journey has shaped my foundation in computer science, research, leadership, and applied artificial intelligence.
 
 ---
