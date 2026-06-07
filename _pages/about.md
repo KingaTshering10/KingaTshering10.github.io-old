@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Final-year BSc CSE Student · Machine Learning & Applied AI Researcher
+subtitle: BSc in Computer Science and Engineering Graduate · Machine Learning & Applied AI Researcher
 
 profile:
   align: right
@@ -25,13 +25,13 @@ latest_posts:
   enabled: false
 ---
 
-Hi! I am **Kinga Tshering**, a final-year **BSc Computer Science and Engineering** student at **North South University**, Dhaka, Bangladesh. I am a recipient of **His Majesty’s Scholarship** and currently hold a **CGPA of 3.90/4.00**.
+Hi! I am **Kinga Tshering**, a **BSc Computer Science and Engineering** Graduate at **North South University**, Dhaka, Bangladesh. I am a recipient of **His Majesty’s Scholarship** and currently hold a **CGPA of 3.90/4.00**.
 
 My research interests include **Machine Learning**, **Deep Learning**, **Computer Vision**, **Vision–Language Models**, **Hyperspectral Image Classification**, **Natural Language Processing**, **Medical Imaging**, **Explainable AI**, and **Applied AI Systems**.
 
 My current research spans vision–language model evaluation, sparse subnetworks for hyperspectral image classification, few-shot open-set recognition in medical imaging, LLM-based computational reasoning, and explainable machine learning for pediatric screen-time overuse prediction.
 
-I have contributed to research work associated with venues such as **ICML 2026**, **TMLR**, **PLOS Computational Biology**, **EMNLP**, and **Zorig Melong Journal**. My work focuses on building reliable, interpretable, and practically useful AI systems for real-world problems.
+I have contributed to research work associated with venues such as **ICML 2026**, **TMLR**, **Neurocomputing**, **EMNLP**, and **Zorig Melong Journal**. My work focuses on building reliable, interpretable, and practically useful AI systems for real-world problems.
 
 Beyond research, I have served as a **Teaching Assistant** at North South University for CSE courses including **Programming Language II (Java)** and **Computer Architecture and Organization**. I have also worked on applied software projects such as **IntelliExpense**, an ML-based financial budgeting web application, and **FindMySpot**, a parking reservation system.
 
