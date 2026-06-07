@@ -1,95 +1,47 @@
 ---
 
-
-
 layout: page
-
 title: education
-
 permalink: /education/
-
 nav: true
-
 nav_order: 4
-
 ------------
 
+# Education
 
+My academic journey has shaped my foundation in computer science, research, leadership, and applied artificial intelligence.
 
-<div style="margin-bottom: 2rem;">
+---
 
-  <h1 style="font-size: 2.2rem; margin-bottom: 0.4rem;">Education</h1>
+## 🎓 North South University
 
-  <p style="font-size: 1.05rem; line-height: 1.7; color: var(--global-text-color);">
+**B.Sc. in Computer Science and Engineering**
+*Dhaka, Bangladesh · Class of 2026*
 
-    My academic journey has shaped my foundation in computer science, research, leadership, and applied artificial intelligence.
+**Academic standing:** Summa Cum Laude
+**CGPA:** 3.90 / 4.00
+**Scholarship:** His Majesty’s Scholarship
 
-  </p>
+Recipient of **His Majesty’s Scholarship**, awarded to top Bhutanese students nationally. My undergraduate training has focused on computer science, machine learning, software systems, database systems, and research-oriented artificial intelligence.
 
-</div>
+---
 
+## 🏫 Pakshikha Central School
 
+**Higher Secondary Education Certificate — Science Stream**
+*Chhukha, Bhutan · 2020–2021*
 
-<div style="border-left: 3px solid var(--global-theme-color); padding-left: 1.5rem;">
+**Class 12 Percentage:** 79.5%
 
+Completed higher secondary education in the science stream, building a strong academic foundation in mathematics, science, and analytical reasoning.
 
+---
 
-  <div style="margin-bottom: 2.2rem; padding: 1.2rem 1.4rem; border-radius: 12px; background: var(--global-card-bg-color); box-shadow: 0 2px 10px rgba(0,0,0,0.08);">
+## 🏫 Dechentsemo Central School
 
-    <h2 style="margin-bottom: 0.2rem;">North South University</h2>
+**Secondary Education**
+*Punakha, Bhutan · 2013–2016*
 
-    <p style="margin-bottom: 0.3rem;"><strong>B.Sc. in Computer Science and Engineering</strong></p>
+**Class 10 Percentage:** 84.2%
 
-    <p style="margin-bottom: 0.3rem;">Dhaka, Bangladesh · Class of 2026</p>
-
-    <ul style="margin-top: 0.8rem;">
-
-      <li><strong>CGPA:</strong> 3.90 / 4.00</li>
-
-      <li><strong>Distinction:</strong> Summa Cum Laude</li>
-
-      <li><strong>Scholarship:</strong> Recipient of His Majesty’s Scholarship, awarded to top Bhutanese students nationally.</li>
-
-    </ul>
-
-  </div>
-
-
-
-  <div style="margin-bottom: 2.2rem; padding: 1.2rem 1.4rem; border-radius: 12px; background: var(--global-card-bg-color); box-shadow: 0 2px 10px rgba(0,0,0,0.08);">
-
-    <h2 style="margin-bottom: 0.2rem;">Pakshikha Central School</h2>
-
-    <p style="margin-bottom: 0.3rem;"><strong>Higher Secondary Education Certificate</strong></p>
-
-    <p style="margin-bottom: 0.3rem;">Science Stream · Chhukha, Bhutan · 2020–2021</p>
-
-    <ul style="margin-top: 0.8rem;">
-
-      <li><strong>Class 12 Percentage:</strong> 79.5%</li>
-
-    </ul>
-
-  </div>
-
-
-
-  <div style="margin-bottom: 2.2rem; padding: 1.2rem 1.4rem; border-radius: 12px; background: var(--global-card-bg-color); box-shadow: 0 2px 10px rgba(0,0,0,0.08);">
-
-    <h2 style="margin-bottom: 0.2rem;">Dechentsemo Central School</h2>
-
-    <p style="margin-bottom: 0.3rem;"><strong>Secondary Education</strong></p>
-
-    <p style="margin-bottom: 0.3rem;">Punakha, Bhutan · 2013–2016</p>
-
-    <ul style="margin-top: 0.8rem;">
-
-      <li><strong>Class 10 Percentage:</strong> 84.2%</li>
-
-    </ul>
-
-  </div>
-
-
-
-</div>
+Completed secondary education with strong academic performance and active participation in school-level leadership, speaking, and academic activities.
