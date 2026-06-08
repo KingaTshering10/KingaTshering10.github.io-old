@@ -8,8 +8,8 @@ nav_order: 1
 subtitle: BSc in Computer Science and Engineering Graduate · Machine Learning & Applied AI Researcher
 
 profile:
-align: right
-image: prof_pic.png
+ align: right
+ image: prof_pic.png
 image_circular: false
 more_info: > <p>Dhaka, Bangladesh</p> <p><a href="mailto:kinga.tshering@northsouth.edu">[kinga.tshering@northsouth.edu](mailto:kinga.tshering@northsouth.edu)</a></p> <p><a href="mailto:kinstsring10@gmail.com">[kinstsring10@gmail.com](mailto:kinstsring10@gmail.com)</a></p>
 
@@ -23,7 +23,7 @@ limit: 5
 
 latest_posts:
 enabled: false
---------------
+---
 
 Hi! I am **Kinga Tshering**, a **BSc Computer Science and Engineering graduate** of **North South University**, Dhaka, Bangladesh. I graduated with a **CGPA of 3.90/4.00** and was a recipient of **His Majesty’s Scholarship**.
 
