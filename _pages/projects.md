@@ -5,6 +5,9 @@ permalink: /projects/
 description: A growing collection of my projects.
 nav: false
 nav_order: 3
+---
+
+This page is currently hidden from the navigation menu.
 display_categories:
   - work
   - fun
