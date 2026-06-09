@@ -1,9 +1,13 @@
 ---
-layout: about
-title: about
-permalink: /
+layout: page
+title: projects
+permalink: /projects/
+description: A growing collection of my projects.
 nav: false
-nav_order: 1
+nav_order: 3
+---
+
+This page is currently hidden from the navigation menu.
 subtitle: BSc in Computer Science and Engineering Graduate · Machine Learning & Applied AI Researcher
 
 profile:
