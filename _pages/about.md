@@ -1,10 +1,9 @@
 ---
-layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of my projects.
+layout: about
+title: about
+permalink: /
 nav: false
-nav_order: 3
+nav_order: 1
 ---
 
 This page is currently hidden from the navigation menu.
